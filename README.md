@@ -2,6 +2,7 @@
 Contiene 6 pantallas
 
 # Layout Principal
+Tiene un menu que direge a las pantallas siguientes
 
 # Linear Layout Vertical
 Contiene un botón que les cree una notificación.
