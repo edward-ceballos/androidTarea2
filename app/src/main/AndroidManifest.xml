@@ -23,6 +23,10 @@
         <activity
             android:name=".LinearLayoutHorizontal"
             android:label="@string/title_activity_linear_layout_horizontal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RelativeLayout"
+            android:label="@string/title_activity_relative_layout"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

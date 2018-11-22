@@ -12,4 +12,5 @@
     <string name="btn10">Azul</string>
     <string name="title_activity_linear_layout_vertical">Linear Layout Vertical</string>
     <string name="title_activity_linear_layout_horizontal">Linear Layout Horizontal</string>
+    <string name="title_activity_relative_layout">Relative Layout</string>
 </resources>
