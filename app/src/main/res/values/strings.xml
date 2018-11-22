@@ -10,7 +10,17 @@
     <string name="btn8">Verde</string>
     <string name="btn9">Rojo</string>
     <string name="btn10">Azul</string>
+    <string name="btn11">1</string>
+    <string name="btn12">2</string>
+    <string name="btn13">3</string>
+    <string name="btn14">1</string>
+    <string name="btn15">2</string>
+    <string name="btn16">3</string>
+    <string name="btn17">4</string>
+    <string name="btn18">5</string>
     <string name="title_activity_linear_layout_vertical">Linear Layout Vertical</string>
     <string name="title_activity_linear_layout_horizontal">Linear Layout Horizontal</string>
     <string name="title_activity_relative_layout">Relative Layout</string>
+    <string name="title_activity_table_layout">Table Layout</string>
+    <string name="title_activity_frame_layout">Frame Layout</string>
 </resources>

@@ -1,0 +1,64 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="80dp">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:background="@android:color/holo_orange_dark"
+            android:textColor="@android:color/background_light"
+            android:text="@string/btn14" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:background="@android:color/holo_purple"
+            android:textColor="@android:color/background_light"
+            android:text="@string/btn15" />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="3"
+            android:background="@android:color/holo_blue_dark"
+            android:textColor="@android:color/background_light"
+            android:text="@string/btn16" />
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_span="2"
+            android:background="@android:color/holo_red_dark"
+            android:textColor="@android:color/background_light"
+            android:text="@string/btn17" />
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:background="@android:color/holo_orange_light"
+            android:textColor="@android:color/background_light"
+            android:text="@string/btn18" />
+    </TableRow>
+
+</TableLayout>

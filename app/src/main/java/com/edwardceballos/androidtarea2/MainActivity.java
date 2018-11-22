@@ -32,5 +32,24 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+        button3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent( MainActivity.this, RelativeLayout.class);
+                startActivity(i);
+            }
+        });
+        button4.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent( MainActivity.this, TableLayout.class);
+                startActivity(i);
+            }
+        });
+        button5.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent( MainActivity.this, FrameLayout.class);
+                startActivity(i);
+            }
+        });
     }
 }
