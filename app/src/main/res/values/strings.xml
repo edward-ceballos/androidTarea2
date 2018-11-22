@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">androidTarea2</string>
+    <string name="app_name">Layout Principal</string>
+    <string name="btn1">Linear Layout Vertical</string>
+    <string name="btn2">Linear Layout Horizontal</string>
+    <string name="btn3">Relative Layout</string>
+    <string name="btn4">Table Layout</string>
+    <string name="btn5">Frame Layout</string>
+    <string name="btn6">Desplegar Notificación</string>
+    <string name="btn7">Negro</string>
+    <string name="btn8">Verde</string>
+    <string name="btn9">Rojo</string>
+    <string name="btn10">Azul</string>
+    <string name="title_activity_linear_layout_vertical">Linear Layout Vertical</string>
+    <string name="title_activity_linear_layout_horizontal">Linear Layout Horizontal</string>
 </resources>

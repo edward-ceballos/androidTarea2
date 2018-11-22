@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".linear_layout_vertical"
+            android:label="@string/title_activity_linear_layout_vertical"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LinearLayoutHorizontal"
+            android:label="@string/title_activity_linear_layout_horizontal"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
